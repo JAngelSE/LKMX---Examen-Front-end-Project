@@ -24,3 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# LKMX---Examen-Front-end" 
 "# LKMX---Examen-Front-end" 
+# LKMX---Examen-Front-end-Project
+# LKMX---Examen-Front-end-Project
